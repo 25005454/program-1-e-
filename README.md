@@ -3,11 +3,6 @@ C module 1
 
 EX NO-1)e)-To calculate the total, average and percentage of marks in 4 subjects. 
 
-Date:19/10/2025
-Name:VASANTH S
-Ref no:25017538
-
-
 AIM:
 To write a C program to calculate total, average and percentage of marks in 4 subjects.
 
